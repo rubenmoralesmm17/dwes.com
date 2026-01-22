@@ -1,0 +1,10 @@
+[2026-01-22T14:28:33.822537+00:00] - app DEBUG: Esto es un mensaje de depuración []
+[2026-01-22T14:28:33.822740+00:00] - app INFO: El usuario ha iniciado sesión {"usuario":"juanperez"}
+[2026-01-22T14:28:33.822777+00:00] - app WARNING: El espacio en disco es bajo []
+[2026-01-22T14:28:33.822798+00:00] - app ERROR: No se pudo conectar a la base de datos {"error":500,"mensaje":"El usuario no existe en la base de datos"}
+[2026-01-22T14:28:33.822817+00:00] - app CRITICAL: Fallo crítico en el sistema! []
+[2026-01-22T14:28:51.237470+00:00] - app DEBUG: Esto es un mensaje de depuración []
+[2026-01-22T14:28:51.238977+00:00] - app INFO: El usuario ha iniciado sesión {"usuario":"juanperez"}
+[2026-01-22T14:28:51.239768+00:00] - app WARNING: El espacio en disco es bajo []
+[2026-01-22T14:28:51.239808+00:00] - app ERROR: No se pudo conectar a la base de datos {"error":500,"mensaje":"El usuario no existe en la base de datos"}
+[2026-01-22T14:28:51.239831+00:00] - app CRITICAL: Fallo crítico en el sistema! []
